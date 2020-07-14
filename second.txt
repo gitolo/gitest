@@ -1,3 +1,4 @@
 It's feature file.
 second line.
 Third line.
+Fourth line.
