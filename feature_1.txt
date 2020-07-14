@@ -1,3 +1,4 @@
 first line added by feature.
 second line added by feature.
 some additional line.
+line added by master.
