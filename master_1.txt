@@ -1,3 +1,4 @@
 it's master line.
 second line added by master
 third line added by master
+conflicted line.
