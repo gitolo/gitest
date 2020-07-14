@@ -1,1 +1,2 @@
 It's feature file.
+second line.
